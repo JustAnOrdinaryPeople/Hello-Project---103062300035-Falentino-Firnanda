@@ -1,3 +1,5 @@
+//perkalian
+
 void main(List<String> arguments){
   print('Dart is good');
   print('6 * 7 = ${calculate()}');
